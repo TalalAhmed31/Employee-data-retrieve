@@ -12,7 +12,7 @@ Easy to extend with additional routes for employee management.
 Simple and lightweight backend API setup.
 Setup Instructions
 **1. Clone the Repository**
-git clone https://github.com/your-username/employee-management-api.git
+git clone https://github.com/repo-link
 **2. Install Dependencies**
 Navigate to the project directory and install the required dependencies.
 cd employee-management-api
